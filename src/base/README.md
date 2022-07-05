@@ -1,0 +1,1 @@
+The base UI library, that completely independent from the application business logic, and can be moved across different application. Potentially can be open sourced.
